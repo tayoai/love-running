@@ -112,6 +112,27 @@ main {
 #cover-text > h2, #cover-text > h3 {
     color: #ffffff;;
 }
+
+/* Meetup Times section */
+#times {
+    background: url(../images/dublin-city.webp) no-repeat center/cover;
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#times div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 15px;
+    text-align: center;
+}
+
+#times h3 {
+    /* Override the heading colour set in general styles */
+    color: #fafafa;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
