@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "love-running",
+			"path": "."
+		},
+		{
+			"name": "favicon",
+			"path": "../favicon"
+		}
+	],
+	"settings": {}
+}
